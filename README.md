@@ -41,7 +41,3 @@ Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** 
 
 
 ## **Final Conclusion**
-
-- Shaun's company has a good relationship with the restaurants generating sale revenue of =<$500,000 while most of them have a 50% share of F&B purchases from his company.
-- It would be beneficial for Shaun's company to make a good relationship with non-commercial establishments working on a contract basis (49%) in cities like Worcester and Boston where the school ranges between 3-5 and 6-9 having public ownership (48%), providing >2000 meals a day.
-- Out of 661 retail stores, 308 stores generate annual sales of =<$500,000 in three states whereas 259 retail stores (88%) are located in the KY (Kentucky). Hence, based on the good reputation of Shaun's company with the restaurants generating sale revenue of =<$500,000, it would be beneficial for him to develop a good relationship with retail stores adjacent to his customers in KY (Kentucky) making a sale revenue of =<$500,000.
