@@ -42,4 +42,4 @@ Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** 
 
 ## **Final Conclusion**
 
-Based on educational background and job roles, the major cause of employee performance issues is job satisfaction and salary hike percentage. Especially, young employees between 26 - 35 age group in the job role of Sales Executive and Developer. Therefore, Mr Brain, CEO of INX Future Inc should raise the salary hike percentage (more than 15%) of young employees (between 26 - 35 age) who have at least two years of working experience at the company.
+Based on educational background and job roles, the major cause of employee performance issues is job satisfaction and salary hike percentage. Especially, young employees between 26 - 35 age group in the job role of Sales Executive, Developer and others. Therefore, Mr Brain, CEO of INX Future Inc should raise the salary hike percentage (increase to more than 15%) of young employees (between 26 - 35 age) who have at least two years of working experience at the company.
