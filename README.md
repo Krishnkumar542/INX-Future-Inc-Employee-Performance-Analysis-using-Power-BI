@@ -32,7 +32,8 @@ Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** 
 
 ## **Project Insight**
 
-- Out of the 1200 employees, 178 of them going to leave INX Future Inc data analytics company (indicating a 15% attrition rate). - Most employees with educational backgrounds in the field of Life Sciences (37%), Medical (25%) and Marketing (17%), indicating high attrition.
+- Out of the 1200 employees, 178 of them going to leave INX Future Inc data analytics company (indicating a 15% attrition rate). 
+- The employees with educational backgrounds in the field of Life Sciences (37%), Medical (25%) and Marketing (17%), indicating high attrition.
 - The maximum number of employees between 26 - 35 age, depicts high attrition (90 employees).
 - The employees from the job role of sales executive (44), developer (40), sales representative (24), research scientist (13) and manager R&D (12) show high attrition.
 - The 46 employees after having two years of work experience at the company, leave the company.
