@@ -36,8 +36,8 @@ Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** 
 - The employees with educational backgrounds in the field of Life Sciences (37%), Medical (25%) and Marketing (17%), indicating high attrition.
 - The maximum number of employees between 26 - 35 age, depicts high attrition (90 employees).
 - The employees from the job role of sales executive (44), developer (40), sales representative (24), research scientist (13) and manager R&D (12) show high attrition.
-- The 46 employees after having two years of work experience at the company, leave the company.
-- The low salary hike % of employees indicates the high attrition rate.
+- The 46 employees after gaing two years of work experience they leave the company.
+- The low salary hike % of employees (between 10% - 15%) indicates the high attrition rate.
 
 
 ## **Final Conclusion**
