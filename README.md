@@ -5,12 +5,13 @@ Created Interactive Dashboard &amp; Analyzed core underlying causes of poor empl
 
 Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** provider wants us to create an interactive dashboard to analyse the employee performance indexes and track the core underlying causes of their performance issues (clear indicators of non-performing employees).
 
-## **Case Statement**
-- Get a quick view of the share of F&B spending from existing customers (restaurants) that **Shaun's F&B Company** is getting, and if there are any opportunities in specific segments.
-- What are the adjacent opportunities from the **_non-commercial establishments_** to additionally sell into (note that there are no customers currently in the non-commercial segment). Their data of spending are not available, so will be interested in knowing relevant proxies that could indicate opportunities for us.
-- **_Retailers_** are a different business division and out of scope for me (Shaun), but some of my customers/prospects could be buying from these retailers – so getting a view of retailer presence adjacent to his customers & prospects will help understand how much of these opportunities are being met / unmet.
-
-
+## **Questions**
+- Does educational level responsible for the attrition of employees?
+- Which age group of employees has the maximum attrition?
+- Are the employees unsatisfied with the specific job role?
+- Which top 5 job role indicates the maximum attrition of employees?
+- Does a highly experienced person responsible for leaving the company?
+- How does the % salary hike play a crucial role in the increase in attrition of the employee?
 
 ## **Dataset used**
 
