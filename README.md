@@ -5,7 +5,7 @@ Created Interactive Dashboard &amp; Analyzed core underlying causes of poor empl
 
 Mr Brain, CEO of the **INX Future Inc data analytics and automation solutions** provider wants us to create an interactive dashboard to analyse the employee performance indexes and track the core underlying causes of their performance issues (clear indicators of non-performing employees).
 
-## **Questions**
+## **Questions (KPIs)**
 - Does educational level responsible for the attrition of employees?
 - Which age group of employees has the maximum attrition?
 - Are the employees unsatisfied with the specific job role?
